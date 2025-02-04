@@ -24,6 +24,10 @@ namespace AM.ApplicationCore.Domain
             
         }
 
+        public List<Flight> flights { get; set; }
+
+
+
     }
 
 }

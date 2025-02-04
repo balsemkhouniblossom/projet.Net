@@ -14,5 +14,8 @@ namespace AM.ApplicationCore.Domain
         public String LastName { get; set; }
         public String PassportNumber { get; set; }
         public String TelNumber { get; set; }
+
+        public List<Flight> Flights { get; set; }
+
     }
 }

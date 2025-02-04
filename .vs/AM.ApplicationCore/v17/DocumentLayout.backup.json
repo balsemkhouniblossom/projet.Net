@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{1D959EBC-3305-4B4C-BCE1-9D5A43189942}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\basicflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1D959EBC-3305-4B4C-BCE1-9D5A43189942}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\balsem\\source\\repos\\am.applicationcore\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D959EBC-3305-4B4C-BCE1-9D5A43189942}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D959EBC-3305-4B4C-BCE1-9D5A43189942}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\balsem\\source\\repos\\am.applicationcore\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D959EBC-3305-4B4C-BCE1-9D5A43189942}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D959EBC-3305-4B4C-BCE1-9D5A43189942}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\balsem\\source\\repos\\am.applicationcore\\am.applicationcore\\interfaces\\ibasicflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D959EBC-3305-4B4C-BCE1-9D5A43189942}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\ibasicflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D959EBC-3305-4B4C-BCE1-9D5A43189942}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\balsem\\source\\repos\\am.applicationcore\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D959EBC-3305-4B4C-BCE1-9D5A43189942}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D959EBC-3305-4B4C-BCE1-9D5A43189942}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\balsem\\source\\repos\\am.applicationcore\\am.applicationcore\\domain\\planetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,16 +42,16 @@
               "Title": "BasicFlightService.cs",
               "DocumentMoniker": "C:\\Users\\Balsem\\source\\repos\\AM.ApplicationCore\\AM.ApplicationCore\\Services\\BasicFlightService.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\BasicFlightService.cs",
-              "ToolTip": "C:\\Users\\Balsem\\source\\repos\\AM.ApplicationCore\\AM.ApplicationCore\\Services\\BasicFlightService.cs*",
-              "RelativeToolTip": "AM.ApplicationCore\\Services\\BasicFlightService.cs*",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswEcAAABMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Balsem\\source\\repos\\AM.ApplicationCore\\AM.ApplicationCore\\Services\\BasicFlightService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\BasicFlightService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswDEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T10:27:27.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IBasicFlightService.cs",
               "DocumentMoniker": "C:\\Users\\Balsem\\source\\repos\\AM.ApplicationCore\\AM.ApplicationCore\\Interfaces\\IBasicFlightService.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IBasicFlightService.cs",
@@ -59,8 +59,7 @@
               "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IBasicFlightService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T10:23:43.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T10:23:43.566Z"
             },
             {
               "$type": "Document",
@@ -72,12 +71,11 @@
               "RelativeToolTip": "AM.ApplicationCore\\Domain\\Passenger.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T10:01:13.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T10:01:13.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Flight.cs",
               "DocumentMoniker": "C:\\Users\\Balsem\\source\\repos\\AM.ApplicationCore\\AM.ApplicationCore\\Domain\\Flight.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "AM.ApplicationCore\\Domain\\Flight.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T10:01:00.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T10:01:00.201Z"
             },
             {
               "$type": "Document",
@@ -98,21 +95,19 @@
               "RelativeToolTip": "AM.ApplicationCore\\Domain\\PlaneType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:29:15.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T09:29:15.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Plane.cs",
               "DocumentMoniker": "C:\\Users\\Balsem\\source\\repos\\AM.ApplicationCore\\AM.ApplicationCore\\Domain\\Plane.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Plane.cs",
               "ToolTip": "C:\\Users\\Balsem\\source\\repos\\AM.ApplicationCore\\AM.ApplicationCore\\Domain\\Plane.cs",
               "RelativeToolTip": "AM.ApplicationCore\\Domain\\Plane.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:26:04.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T09:26:04.19Z"
             },
             {
               "$type": "Bookmark",
